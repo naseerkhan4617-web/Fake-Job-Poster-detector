@@ -7,7 +7,7 @@ import streamlit as st
 
 # ----------------------------- CONFIG ---------------------------------
 # Change this if Google renames/retires the model. Check the Gemini docs.
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.5-flash"
 
 st.set_page_config(page_title="Fake Job Post Detector", page_icon="🕵️", layout="centered")
 
